@@ -7,13 +7,16 @@ During the course of this project,
 Created 3 different web pages from Wireframe layout using HTML and CSS
 Utilized Bootstrap extensively for responsive design
 Deployed the website to Netlify
-image
+
+
 
 QTrip Landing page
-
+![imga](https://user-images.githubusercontent.com/63907816/202904518-0aa497fe-fb11-4a4c-b9de-95745f56652e.png)
 QTrip Adventures page
+![imgb](https://user-images.githubusercontent.com/63907816/202904582-c454ba23-ff02-4a9f-8e5c-a94ffa73945d.png)
 
 QTrip Adventure details page
+![imgc](https://user-images.githubusercontent.com/63907816/202904631-065de6d3-2975-428d-8e6f-4258e737da07.png)
 
 Create layout for the landing page and make it responsive
 Scope of work
